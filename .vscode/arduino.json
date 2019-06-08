@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:leonardo",
+    "programmer": "ArduinoISP",
+    "sketch": "Romi.ino",
+    "port": "COM3"
+}
